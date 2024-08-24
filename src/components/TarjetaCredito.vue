@@ -72,22 +72,7 @@ export default {
 </template>
 
 <style scoped>
-* {
-        margin: 0;
-      }
-      body {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 60vh;
-        font-size: 10px;
-        font-family: sans-serif;
-      }
-
-      #app {
-        display: flex;
-        gap: 40px;
-      }
+     
       form {
         padding: 18px;
         border-radius: 20px;
